@@ -49,7 +49,7 @@ export default function Contact() {
             potlurichanakya@gmail.com
           </a>
           <a
-            href="https://www.linkedin.com/in/potlurichanakya"
+            href="https://www.linkedin.com/in/potluri-chanakya"
             target="_blank"
             rel="noreferrer"
             className="px-8 py-4 rounded-xl border border-border text-white font-display font-semibold hover:border-accent-2/40 hover:bg-accent-2/5 transition-all duration-200 flex items-center justify-center gap-2"
