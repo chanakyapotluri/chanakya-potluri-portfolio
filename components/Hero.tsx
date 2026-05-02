@@ -124,7 +124,7 @@ export default function Hero() {
             <span className="text-xs text-subtle font-mono">FIND ME ON</span>
             <div className="h-px flex-1 max-w-16 bg-border" />
             <a
-              href="https://www.linkedin.com/in/potlurichanakya"
+              href="https://www.linkedin.com/in/potluri-chanakya"
               target="_blank"
               rel="noreferrer"
               className="text-muted hover:text-accent transition-colors"
